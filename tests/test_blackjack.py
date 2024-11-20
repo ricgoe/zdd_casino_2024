@@ -1,5 +1,5 @@
 import pytest
-from blackjack import count_cards
+from casino.blackjack import count_cards
 
 
 def test_count_cards():
